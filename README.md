@@ -58,6 +58,8 @@ Or run a simple local server:
 
 ```powershell
 python -m http.server 8000
+```
+
 
 
 
