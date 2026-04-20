@@ -60,6 +60,24 @@ Or run a simple local server:
 python -m http.server 8000
 ```
 
+## Screenshots
+
+### Home Screen
+![Home Screen](./screenshots/home-screen.png)
+
+### Generated Workout Plan
+![Generated Workout Plan](./screenshots/generated-plan.png)
+
+### Dashboard View
+![Dashboard View](./screenshots/dashboard-view.png)
+
+### Dark Mode
+![Dark Mode](./screenshots/dark-mode.png)
+
+### Mobile View
+![Mobile View](./screenshots/mobile-view.png)
+
+
 
 
 
